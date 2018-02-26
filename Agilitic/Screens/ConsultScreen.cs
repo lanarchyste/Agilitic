@@ -13,7 +13,7 @@ namespace Agilitic.Screens
         private static int _CurrentMinRange = 0;
         private static List<(string, Action)> _Options = new List<(string, Action)>
         {
-            ("Page precedente",() => {
+            ("Page précédente ",() => {
                 _PageIndex--;
                 _CurrentMinRange = _CurrentMinRange - _Range;
                 if(_CurrentMinRange < 0)

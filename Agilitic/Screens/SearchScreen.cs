@@ -22,7 +22,7 @@ namespace Agilitic.Screens
 
         private static DateTime PopulateDateSearch()
         {
-            Screen.DisplayText("Date souhaitee: ");
+            Screen.DisplayText("Date souhaitée: ");
             string input = Screen.AwaitInput();
             if (DateTime.TryParse(input, out DateTime res))
             {
@@ -30,8 +30,8 @@ namespace Agilitic.Screens
             }
             else
             {
-                Screen.DisplayColoredText(ConsoleColor.Red, "Votre entree ne correspond pas a une date " +
-                    "valide (yyyy-mm-dd)\nVeuillez reessayer.\n");
+                Screen.DisplayColoredText(ConsoleColor.Red, "Votre entrée ne correspond pas a une date " +
+                    "valide (yyyy-mm-dd)\nVeuillez réessayer.\n");
                 return PopulateDateSearch();
             }
         }

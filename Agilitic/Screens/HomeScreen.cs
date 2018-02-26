@@ -9,8 +9,8 @@ namespace Agilitic.Screens
     {
         private static List<(string, Action)> _Options = new List<(string, Action)>
         {
-            ("Voir les possibilites",() => ConsultScreen.Display()),
-            ("Chercher une disponibilite", () => SearchScreen.Display()),
+            ("Voir les possibilités",() => ConsultScreen.Display()),
+            ("Chercher une disponibilité ", () => SearchScreen.Display()),
             ("Quitter",() => { }),
         };
 
