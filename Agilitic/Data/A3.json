@@ -1,0 +1,47 @@
+[
+  {
+    "appointment_start_date_time": "2017-12-28T14:51:26.873572Z",
+    "appointment_end_date_time": "2017-12-29T08:03:06.821932Z",
+    "appointment_id": "c45af54f-99f4-4a0f-8436-0f7ed4fecb07"
+  },
+  {
+    "appointment_start_date_time": "2017-12-26T13:59:09.688338Z",
+    "appointment_end_date_time": "2017-12-26T15:00:00.000000Z",
+    "appointment_id": "2102cdb9-ee88-42b6-b29e-d4c2ebaf5b5b"
+  },
+  {
+    "appointment_start_date_time": "2017-12-28T13:30:00.000000Z",
+    "appointment_end_date_time": "2017-12-28T15:15:00.000000Z",
+    "appointment_id": "663d17bd-0547-445c-9315-a8b5a756b306"
+  },
+  {
+    "appointment_start_date_time": "2017-12-27T13:30:00.000000Z",
+    "appointment_end_date_time": "2017-12-27T17:30:00.000000Z",
+    "appointment_id": "bbcb9359-c600-4fd3-a25a-e658027824d1"
+  },
+  {
+    "appointment_start_date_time": "2017-12-26T12:36:38.825604Z",
+    "appointment_end_date_time": "2017-12-26T13:31:57.229653Z",
+    "appointment_id": "5cc8cb9e-e7e6-4551-af6a-a9b8834abace"
+  },
+  {
+    "appointment_start_date_time": "2017-12-25T09:00:00.000000Z",
+    "appointment_end_date_time": "2017-12-25T09:15:00.000000Z",
+    "appointment_id": "a3e4705f-1c57-44a7-8d30-65bfc74f0617"
+  },
+  {
+    "appointment_start_date_time": "2017-12-27T08:11:27.719454Z",
+    "appointment_end_date_time": "2017-12-27T09:26:12.661781Z",
+    "appointment_id": "5c3d426e-9667-4bcf-b93d-5183192c2380"
+  },
+  {
+    "appointment_start_date_time": "2017-12-27T09:26:01.750621Z",
+    "appointment_end_date_time": "2017-12-27T10:45:00.000000Z",
+    "appointment_id": "0688f17b-67d1-4124-b62e-bb05d9328935"
+  },
+  {
+    "appointment_start_date_time": "2017-12-29T08:02:55.264433Z",
+    "appointment_end_date_time": "2017-12-29T09:15:00.000000Z",
+    "appointment_id": "ffa9d369-b231-4197-bf88-0f7420dcbced"
+  }
+]
